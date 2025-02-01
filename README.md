@@ -1,1 +1,1 @@
-# CS-311-Computer-Architecture-Laboratory
+# CS 311 Computer Architecture Laboratory
